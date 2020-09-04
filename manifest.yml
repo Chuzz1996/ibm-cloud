@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: us-south.cf.appdomain.cloud
+  name: ibmcloudtest1
+  host: ibmcloudtest1
+  disk_quota: 192M
